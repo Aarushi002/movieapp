@@ -10,11 +10,11 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --black: #010101;
-  --black2: #00060e;
-  --black3: #191a1b;
+  --black: white;
+  --black2: whitesmoke;
+  --black3: #777879;
   --black-lighter: rgb(105, 105, 105);
-  --black-light: #020c1b;
+  --black-light: #f0e08d;
   --gradient: linear-gradient(98.37deg, rgb(37, 37, 37) 0.99%, rgb(14, 13, 13) 100%);
 }
 
@@ -22,7 +22,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: white;
+  color: black;
 }
 
 body {
